@@ -1,0 +1,70 @@
+body {
+  text-align: center;
+}
+
+.label {
+color: #3B3A3D;
+font-size: 28px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.Label2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 30px;
+}
+
+.inputik {
+  background-color: #ffc000;
+  border-width: 0px;
+  font-size: 28px;
+
+}
+
+.li {
+  margin: .8em 0;
+ margin-left: 20px;
+}
+
+.ref2 {
+  margin: .8em 0;
+ margin-left: 8px;
+ text-decoration: none;
+ color: #d2691e	;
+
+}
+
+
+
+#list
+{
+
+   margin-left: 8px;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+color: #d2691e	;
+list-style-image: linear-gradient(#90ee90 0,#f4a460	 50%, #ff7f50 50%);
+text-align: left;
+
+
+
+}
+
+#test {
+    width: 20px;
+    height: 20px;
+
+}
+
+#regLabel {
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+font-size: 55px;
+}
+
+#Ref {
+  text-decoration: none;
+  color: #3B3A3D;
+  font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
